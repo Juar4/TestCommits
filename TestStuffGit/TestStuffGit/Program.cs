@@ -7,6 +7,7 @@ namespace TestStuffGit
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!!!");
+            Console.WriteLine("Hello second time (this branch is nice ;)");
         }
     }
 }

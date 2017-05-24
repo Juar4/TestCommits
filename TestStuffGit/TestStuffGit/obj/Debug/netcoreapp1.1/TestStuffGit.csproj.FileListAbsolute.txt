@@ -1,0 +1,9 @@
+C:\projects\GitTest\TestStuffGit\TestStuffGit\bin\Debug\netcoreapp1.1\TestStuffGit.deps.json
+C:\projects\GitTest\TestStuffGit\TestStuffGit\bin\Debug\netcoreapp1.1\TestStuffGit.runtimeconfig.json
+C:\projects\GitTest\TestStuffGit\TestStuffGit\bin\Debug\netcoreapp1.1\TestStuffGit.runtimeconfig.dev.json
+C:\projects\GitTest\TestStuffGit\TestStuffGit\bin\Debug\netcoreapp1.1\TestStuffGit.dll
+C:\projects\GitTest\TestStuffGit\TestStuffGit\bin\Debug\netcoreapp1.1\TestStuffGit.pdb
+C:\projects\GitTest\TestStuffGit\TestStuffGit\obj\Debug\netcoreapp1.1\TestStuffGit.csprojResolveAssemblyReference.cache
+C:\projects\GitTest\TestStuffGit\TestStuffGit\obj\Debug\netcoreapp1.1\TestStuffGit.AssemblyInfo.cs
+C:\projects\GitTest\TestStuffGit\TestStuffGit\obj\Debug\netcoreapp1.1\TestStuffGit.dll
+C:\projects\GitTest\TestStuffGit\TestStuffGit\obj\Debug\netcoreapp1.1\TestStuffGit.pdb
